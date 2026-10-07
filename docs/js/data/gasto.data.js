@@ -1,4 +1,4 @@
-import { GastoCombustible } from "../model/gasto.model";
+import { GastoCombustible } from "../model/gasto.model.js";
 
 const jsonHistorico = `[
   {"id":1,"vehicleType":"moto","date":"2015-04-04T00:00:00.000Z","kilometers":28,"precioViaje":1.68},
